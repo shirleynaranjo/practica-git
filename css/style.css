@@ -9,7 +9,7 @@ html {
 }
 
 strong, span {
-	background: blue;
+	background: darkcyan;
 	color: aliceblue;
 	margin: 0;
 	padding: 0.5rem;
