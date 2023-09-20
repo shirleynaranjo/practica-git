@@ -1,3 +1,6 @@
+html {
+	font-size: 62.5;
+}
 .container {
 	width: 70%;
 	border: 2px solid deeppink;
@@ -10,6 +13,7 @@ strong, span {
 	color: aliceblue;
 	margin: 0;
 	padding: 0.5rem;
+	font-size: 1.6rem;
 
 }
 
