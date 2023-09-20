@@ -1,3 +1,10 @@
+.container {
+	width: 70%;
+	border: 1px solid deeppink;
+	text-align: center;	
+	margin: 0 auto;
+}
+
 h1 {
 	color: blueviolet;
 }
